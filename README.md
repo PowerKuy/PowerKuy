@@ -1,6 +1,6 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=PowerKuy&width=800&height=200)](https://github.com/Akshay090/svg-banners)
  <h3>Hi 👋, I'm PowerKuy </h3>
-
+<img src="https://powerkuy-x.web.app/img/pkuyreview.png" width="50%">
 
 ## 🥇 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua)](https://skillicons.dev)
