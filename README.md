@@ -10,8 +10,8 @@
 ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
 ## 📊 Statistics  
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PowerKuy&theme=github_dark" width="47%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PowerKuy&theme=github_dark" width="47%" />  
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PowerKuy&theme=github_dark" width="40%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PowerKuy&theme=github_dark" width="40%" />  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PowerKuy&theme=github_dark" style="height: 300px"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
