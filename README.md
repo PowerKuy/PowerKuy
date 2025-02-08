@@ -22,8 +22,3 @@
         <img src="https://github-profile-trophy.vercel.app/?username=PowerKuy&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
     </a> 
 </p>
-
-## ✍️ Random Dev Quote
-<div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
-</div>  
