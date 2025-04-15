@@ -2,7 +2,10 @@
  <h3>Hi 👋, I'm PowerKuy </h3>
 
 ## 🥇 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua,html,css,bun,flutter,nextjs,nodejs,laravel,php)](https://skillicons.dev)
+
+## 🥇 Main Skills:
+![MainSkill](https://skillicons.dev/icons?i=cpp,java)
 ### 🌟Design Skills:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![image](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -10,8 +13,6 @@
 ![image](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
 ## 📊 Statistics  
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PowerKuy&theme=github_dark" width="40%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PowerKuy&theme=github_dark" width="40%" />  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PowerKuy&theme=github_dark" style="height: 300px"/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
