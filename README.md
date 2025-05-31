@@ -2,7 +2,7 @@
  <h3>Hi 👋, I'm PowerKuy </h3>
 
 ## 🥇 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua,html,css,bun,flutter,nextjs,nodejs,laravel,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,kotlin,dart,python,javascript,typescript,lua,html,css,bun,flutter,nextjs,nodejs,laravel,php,vue,vite)](https://skillicons.dev)
 
 ## 🥇 Main Skills:
 ![MainSkill](https://skillicons.dev/icons?i=cpp,java)
