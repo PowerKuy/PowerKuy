@@ -1,8 +1,8 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=PowerKuy&width=800&height=200)](https://github.com/Akshay090/svg-banners)
- <h3>Hi 👋, I'm PowerKuy </h3>
+<h3>👋 Hello, I'm PowerKuy </h3>
+Saya tertarik didunia teknologi yang luas, Fokus saya adalah **Reverse Engineering** yang terinspirasi dari seorang modder game Minecraft yang kini telah hilang. Selain itu saya juga sebagai **Android Developer** dari Indonesia.
 
 ## 🥇 Main Skills:
-![MainSkill](https://skillicons.dev/icons?i=cpp,java,kotlin,androidstudio)
+![MainSkill](https://skillicons.dev/icons?i=cpp,c,java,kotlin,androidstudio)
 
 ### 🥇 Technical Skills:
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,cmake,java,kotlin,dart,python,javascript,typescript,lua,html,css,bun,flutter,nextjs,react,nodejs,laravel,php,vue,vite,materialui,bootstrap,tailwind)](https://skillicons.dev)
