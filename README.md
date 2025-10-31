@@ -4,11 +4,10 @@ Saya tertarik didunia teknologi yang luas, Fokus saya adalah <b>Reverse Engineer
 ## 🥇 Main Skills:
 ![MainSkill](https://skillicons.dev/icons?i=cpp,c,java,kotlin,androidstudio)
 
-### 🥇 Technical Skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,cmake,java,kotlin,dart,python,javascript,typescript,lua,html,css,bun,flutter,nextjs,react,nodejs,laravel,php,vue,vite,materialui,bootstrap,tailwind)](https://skillicons.dev)
+Saya juga mempelajar bahasa/framework yang populer saat ini seperti: Python, PHP, Laravel, NextJS, Vue, Jetpack Compose, Flutter, dll
 
-## 🎮 Knowledge
-[![Knowledge](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,godot,unity,arduino,postman,supabase,ae,blender,express,firebase,ai,md,pr)](https://skillicons.dev)
+## 🎮 My Favorite IDE
+[![Knowledge](https://skillicons.dev/icons?i=androidstudio,vscode,visualstudio,neovim)](https://skillicons.dev)
 
 ### 🌟 Design Skills:
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
