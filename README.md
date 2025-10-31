@@ -1,5 +1,5 @@
 <h3>👋 Hello, I'm PowerKuy </h3>
-Saya tertarik didunia teknologi yang luas, Fokus saya adalah **Reverse Engineering** yang terinspirasi dari seorang modder game Minecraft yang kini telah hilang. Selain itu saya juga sebagai **Android Developer** dari Indonesia.
+Saya tertarik didunia teknologi yang luas, Fokus saya adalah <b>Reverse Engineering</b> yang terinspirasi dari seorang modder game Minecraft yang kini telah hilang. Selain itu saya juga sebagai <b>Android Developer</b> dari Indonesia.
 
 ## 🥇 Main Skills:
 ![MainSkill](https://skillicons.dev/icons?i=cpp,c,java,kotlin,androidstudio)
